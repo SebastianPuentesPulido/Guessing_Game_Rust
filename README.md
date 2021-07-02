@@ -12,17 +12,17 @@
 ![Dependencies](./assets/dependencies.jpg)
 
 ## **Run** And **Build The Binary**
-´´´
+```
 $ Git Clone https://github.com/SebastianPuentesPulido/Guessing_Game_Rust.git
 $ cd guessing_game_rust
 $ Cargo Run
-´´´
+```
 **OR**
-´´´
+```
 $ Git Clone https://github.com/SebastianPuentesPulido/Guessing_Game_Rust.git
 $ cd guessing_game_rust
 $ cargo Build
-´´´
+```
 
 
 
